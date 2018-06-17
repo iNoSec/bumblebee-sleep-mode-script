@@ -1,5 +1,5 @@
 [Unit]
-Description=Fixes intel backlight control with Kernel 3.14
+Description=Fix GPU nvidia and bumblebee after sleep mode
 
 [Service]
 Type=oneshot
